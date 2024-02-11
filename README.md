@@ -1,1 +1,1 @@
-# CTF-CODE-C
+기술 테스트 CTF C
